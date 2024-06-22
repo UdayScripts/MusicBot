@@ -1,0 +1,75 @@
+[2024-06-20 08:28:22,873]: INFO > Starting asynchronous function for check downloaded spotify tracks...
+[2024-06-20 08:28:22,873]: INFO > Starting Spotify Music Downloader Telegram Bot...
+[2024-06-20 08:28:22,874]: INFO > Started asynchronous function for check downloaded spotify tracks.
+[2024-06-20 08:28:22,875]: INFO > Start polling.
+[2024-06-20 08:28:44,131]: INFO > 1489381549: /start
+[2024-06-20 08:28:44,700]: INFO > Spotify Music Downloader Telegram Bot:
+Hello, @uday_x!
+      I am a Telegram Bot for downloading music from Spotify.
+      Send me a link to a Spotify track or album and I'll send you that track or album.
+[2024-06-20 08:29:28,540]: INFO > 1489381549: https://open.spotify.com/album/5Jo4MV5F04S89Rvya5SnTi?si=OhTluFPTQX20bHZMO3beqw&context=spotify%3Aalbum%3A5Jo4MV5F04S89Rvya5SnTi
+[2024-06-20 08:29:28,996]: INFO > Spotify Music Downloader Telegram Bot: Downloading Spotify album...
+[2024-06-20 08:29:28,997]: INFO > Processing query: https://open.spotify.com/album/5Jo4MV5F04S89Rvya5SnTi?si=OhTluFPTQX20bHZMO3beqw&context=spotify%3Aalbum%3A5Jo4MV5F04S89Rvya5SnTi
+[2024-06-20 08:29:29,547]: INFO > Found 1 songs in Palang Sagwan Ke (From "Doli Saja Ke Rakhna") (Album)
+[2024-06-20 08:29:52,816]: INFO > Downloaded "Khesari Lal Yadav - Palang Sagwan Ke - From "Doli Saja Ke Rakhna"": https://music.youtube.com/watch?v=BdMTcZwCokI
+[2024-06-20 08:30:03,977]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Khesari Lal Yadav - Palang Sagwan Ke - From "Doli Saja Ke Rakhna"".
+[2024-06-20 08:32:02,145]: INFO > 1489381549: /start
+[2024-06-20 08:32:02,624]: INFO > Spotify Music Downloader Telegram Bot:
+Hello, @uday_x!
+      I am a Telegram Bot for downloading music from Spotify.
+      Send me a link to a Spotify track or album and I'll send you that track or album.
+[2024-06-20 08:32:05,875]: INFO > 1489381549: https://open.spotify.com/album/5Jo4MV5F04S89Rvya5SnTi?si=OhTluFPTQX20bHZMO3beqw&context=spotify%3Aalbum%3A5Jo4MV5F04S89Rvya5SnTi
+[2024-06-20 08:32:06,338]: INFO > Spotify Music Downloader Telegram Bot: Downloading Spotify album...
+[2024-06-20 08:32:06,338]: INFO > Processing query: https://open.spotify.com/album/5Jo4MV5F04S89Rvya5SnTi?si=OhTluFPTQX20bHZMO3beqw&context=spotify%3Aalbum%3A5Jo4MV5F04S89Rvya5SnTi
+[2024-06-20 08:32:06,339]: INFO > Found 1 songs in Palang Sagwan Ke (From "Doli Saja Ke Rakhna") (Album)
+[2024-06-20 08:32:06,342]: INFO > Skipping Khesari Lal Yadav - Palang Sagwan Ke - From "Doli Saja Ke Rakhna" (file already exists) (duplicate)
+[2024-06-20 08:32:12,450]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Khesari Lal Yadav - Palang Sagwan Ke - From "Doli Saja Ke Rakhna"".
+[2024-06-20 09:45:36,615]: INFO > Starting asynchronous function for check downloaded spotify tracks...
+[2024-06-20 09:45:36,620]: INFO > Starting Spotify Music Downloader Telegram Bot...
+[2024-06-20 09:45:36,620]: INFO > Started asynchronous function for check downloaded spotify tracks.
+[2024-06-20 09:45:36,621]: INFO > Start polling.
+[2024-06-20 09:46:02,373]: INFO > 1489381549: /start
+[2024-06-20 09:46:02,880]: INFO > Spotify Music Downloader Telegram Bot:
+Hello, @uday_x!
+      I am a Telegram Bot for downloading music from Spotify.
+      Send me a link to a Spotify track or album and I'll send you that track or album.
+[2024-06-20 09:48:53,198]: INFO > 1489381549: /start
+[2024-06-20 09:48:53,694]: INFO > Spotify Music Downloader Telegram Bot:
+Hello, @uday_x!
+      I am a Telegram Bot for downloading music from Spotify.
+      Send me a link to a Spotify track or album and I'll send you that track or album.
+[2024-06-20 09:49:53,236]: INFO > 1489381549: /start
+[2024-06-20 09:49:53,747]: INFO > Spotify Music Downloader Telegram Bot:
+Hello, @uday_x!
+      I am a Telegram Bot for downloading music from Spotify.
+      Send me a link to a Spotify track or album and I'll send you that track or album.
+[2024-06-20 09:50:40,010]: INFO > 1489381549: https://open.spotify.com/album/5Jo4MV5F04S89Rvya5SnTi?si=OhTluFPTQX20bHZMO3beqw&context=spotify%3Aalbum%3A5Jo4MV5F04S89Rvya5SnTi
+[2024-06-20 09:50:40,509]: INFO > Spotify Music Downloader Telegram Bot: Downloading Spotify album...
+[2024-06-20 09:50:40,509]: INFO > Processing query: https://open.spotify.com/album/5Jo4MV5F04S89Rvya5SnTi?si=OhTluFPTQX20bHZMO3beqw&context=spotify%3Aalbum%3A5Jo4MV5F04S89Rvya5SnTi
+[2024-06-20 09:50:41,006]: INFO > Found 1 songs in Palang Sagwan Ke (From "Doli Saja Ke Rakhna") (Album)
+[2024-06-20 09:50:41,342]: INFO > Skipping Khesari Lal Yadav - Palang Sagwan Ke - From "Doli Saja Ke Rakhna" (file already exists) (duplicate)
+[2024-06-20 09:50:46,354]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Khesari Lal Yadav - Palang Sagwan Ke - From "Doli Saja Ke Rakhna"".
+[2024-06-20 09:51:31,666]: INFO > 1489381549: https://open.spotify.com/album/3KWRmcZFRsIBIQ3tnEWaz2?si=y_t2aojYQYqegbcs0_2tvA&context=spotify%3Aalbum%3A3KWRmcZFRsIBIQ3tnEWaz2
+[2024-06-20 09:51:32,193]: INFO > Spotify Music Downloader Telegram Bot: Downloading Spotify album...
+[2024-06-20 09:51:32,193]: INFO > Processing query: https://open.spotify.com/album/3KWRmcZFRsIBIQ3tnEWaz2?si=y_t2aojYQYqegbcs0_2tvA&context=spotify%3Aalbum%3A3KWRmcZFRsIBIQ3tnEWaz2
+[2024-06-20 09:51:32,521]: INFO > Found 10 songs in Pawan Singh Hit Songs (Album)
+[2024-06-20 09:51:52,861]: INFO > Downloaded "Pawan Singh - Sorry Sorry - From "Bhojpuriya Raja"": https://music.youtube.com/watch?v=nDmjLFj4YJY
+[2024-06-20 09:52:13,017]: INFO > Downloaded "Pawan Singh - Chhalakata Hamro Jawaniya - From "Bhojpuriya Raja"": https://music.youtube.com/watch?v=lLyidTjlNhk
+[2024-06-20 09:52:32,066]: INFO > Downloaded "Pawan Singh - Goriya Chaal Tohar Matwali - From "Bhojpuriya Raja"": https://music.youtube.com/watch?v=AZlAoRHRgLg
+[2024-06-20 09:52:50,526]: INFO > Downloaded "Pawan Singh - Chand Na Sunar Lagela - From "Pratigya 2"": https://music.youtube.com/watch?v=uoojUWkglaE
+[2024-06-20 09:53:10,675]: INFO > Downloaded "Pawan Singh - Ghir Gail Odani Ganna Ke Khet Mein - From "Pratigya 2"": https://music.youtube.com/watch?v=OkjsxjQLJcw
+[2024-06-20 09:53:27,527]: INFO > Downloaded "Pawan Singh - Chaddar Mein Gaddar Macha Dihal Jao - From "Sangram"": https://music.youtube.com/watch?v=zjocyZhG49Y
+[2024-06-20 09:53:46,342]: INFO > Downloaded "Pawan Singh - Shutter Uthava Gori Apna Dukaan Ke - From "Nehle Pe Dehla"": https://music.youtube.com/watch?v=Jhjbvl4AumY
+[2024-06-20 09:54:05,776]: INFO > Downloaded "Pawan Singh - Deke Dhyan Bhagwanji Banaole - From "Karz Virasat Ke"": https://music.youtube.com/watch?v=gNm4uPwZmm8
+[2024-06-20 09:54:25,220]: INFO > Downloaded "Pawan Singh - Jila Hauye Aara Ahija Marad - From "Pratigya 2"": https://music.youtube.com/watch?v=Vm_o1SIwt_E
+[2024-06-20 09:54:45,310]: INFO > Downloaded "Pawan Singh - Ankhiya Me Kawan Jadu - From"Muqabala"": https://music.youtube.com/watch?v=o3_47nWJ3Vs
+[2024-06-20 09:54:49,482]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Sorry Sorry - From "Bhojpuriya Raja"".
+[2024-06-20 09:54:52,187]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Chhalakata Hamro Jawaniya - From "Bhojpuriya Raja"".
+[2024-06-20 09:54:54,543]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Goriya Chaal Tohar Matwali - From "Bhojpuriya Raja"".
+[2024-06-20 09:54:57,351]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Chand Na Sunar Lagela - From "Pratigya 2"".
+[2024-06-20 09:55:00,172]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Ghir Gail Odani Ganna Ke Khet Mein - From "Pratigya 2"".
+[2024-06-20 09:55:03,597]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Chaddar Mein Gaddar Macha Dihal Jao - From "Sangram"".
+[2024-06-20 09:55:06,575]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Shutter Uthava Gori Apna Dukaan Ke - From "Nehle Pe Dehla"".
+[2024-06-20 09:55:09,221]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Deke Dhyan Bhagwanji Banaole - From "Karz Virasat Ke"".
+[2024-06-20 09:55:12,271]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Jila Hauye Aara Ahija Marad - From "Pratigya 2"".
+[2024-06-20 09:55:15,537]: INFO > Spotify Music Downloader Telegram Bot: Sent Spotify album track "Pawan Singh - Ankhiya Me Kawan Jadu - From"Muqabala"".
